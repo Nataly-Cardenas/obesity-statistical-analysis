@@ -17,15 +17,14 @@ El propósito de este proyecto es realizar un Análisis Exploratorio de Datos (E
 
 ##  Contenido del Libro
 
-1. **Sobre este libro & Introducción**[cite: 1]
-2. **Base de Datos:** Descripción del dataset y características principales[cite: 1].
+1. **Sobre este libro & Introducción**
+2. **Base de Datos:** Descripción del dataset y características principales.
 3. **Análisis Exploratorio de Datos (EDA):**
-   * Extracción, Transformación y Carga (ETL)[cite: 1].
-   * Análisis de la variable objetivo (`NObeyesdad`)[cite: 1].
-   * Análisis univariado y bivariado (variables categóricas y numéricas)[cite: 1].
-4. **Tablas de Contingencia:** Cruces entre la variable de obesidad y variables de estilo de vida (`Gender`, `family_history_with_overweight`, `FAVC`, `CAEC`, `SMOKE`, `SCC`, `CALC`, `MTRANS`)[cite: 1].
-5. **Pruebas Inferenciales (Kruskal-Wallis):** Evaluación de diferencias significativas entre niveles de obesidad y variables como edad, peso, altura, consumo de vegetales, agua, actividad física y uso de dispositivos[cite: 1].
-
+   * Extracción, Transformación y Carga (ETL).
+   * Análisis de la variable objetivo (`NObeyesdad`).
+   * Análisis univariado y bivariado (variables categóricas y numéricas).
+4. **Tablas de Contingencia:** Cruces entre la variable de obesidad y variables de estilo de vida (`Gender`, `family_history_with_overweight`, `FAVC`, `CAEC`, `SMOKE`, `SCC`, `CALC`, `MTRANS`).
+5. **Pruebas Inferenciales (Kruskal-Wallis):** Evaluación de diferencias significativas entre niveles de obesidad y variables como edad, peso, altura, consumo de vegetales, agua, actividad física y uso de dispositivos.
 ---
 
 ##  Tecnologías y Herramientas
@@ -38,5 +37,5 @@ El propósito de este proyecto es realizar un Análisis Exploratorio de Datos (E
 
 ##  Autores
 
-* **Nátaly Cárdenas Izáquita**[cite: 1]
-* **Roger Daza Polo**[cite: 1]
+* **Nátaly Cárdenas Izáquita**
+* **Roger Daza Polo**
