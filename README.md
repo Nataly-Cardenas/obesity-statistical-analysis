@@ -5,7 +5,7 @@
 
 Este repositorio contiene el código fuente y el proyecto en **R (Bookdown)** para el libro digital interactivo titulado **"Análisis Estadístico de Factores Asociados a la Obesidad"**.
 
- **[Acceder al libro web interactivo aquí](https://nataly-cardenas.github.io/rbook_dataviz/)**
+ **[Acceder al libro web interactivo aquí](https://nataly-cardenas.github.io/obesity-statistical-analysis/)**
 
 ---
 
